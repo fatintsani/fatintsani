@@ -67,8 +67,9 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 
 <br>
 
-### 📈 My GitHub Stats
-![Fatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatintsani&show_icons=true&theme=tokyonight)
+![GitHub Contribution](https://raw.githubusercontent.com/fatintsani/fatintsani/main/assets/contributions-2022.png)
+
+<br>
 
 ### 🔥 GitHub Contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatintsani&theme=tokyonight)](https://git.io/streak-stats)
