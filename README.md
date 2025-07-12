@@ -67,6 +67,8 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ### 🔥 GitHub Contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatintsani&theme=tokyonight)](https://git.io/streak-stats)
 
