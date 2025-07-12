@@ -66,6 +66,14 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatintsani&layout=compact)](https://github.com/fatintsani)
 
 <br>
+
+### 📈 My GitHub Stats
+![Fatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatintsani&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Contributions
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatintsani&theme=tokyonight)](https://git.io/streak-stats)
+
+<br>
     
 ## 📌  Let's connect!
 
