@@ -67,12 +67,6 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 
 <br>
 
-### 🐍 Aktivitas GitHub Saya
-![GitHub Snake](https://github.com/fatintsani/fatintsani/blob/output/github-contribution-grid-snake.svg)
-
-
-<br>
-
 ### 🔥 GitHub Contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatintsani&theme=tokyonight)](https://git.io/streak-stats)
 
