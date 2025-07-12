@@ -67,7 +67,7 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 
 <br>
 
-![GitHub Contribution](https://raw.githubusercontent.com/fatintsani/fatintsani/main/assets/contributions-2022.png)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fatintsani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
