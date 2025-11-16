@@ -36,6 +36,7 @@ keinginan untuk mengembangkan kemampuan pada bidang IT dan Desain. ❞</p>
 - Java Script
 - Python
 - Typescipt
+- C++
 
 <br>
 
