@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:06B6D4&height=200&section=header&text=Fatin%20Muflihuts%20Tsani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Computer+Technology+Student+%40+Telkom+University;Full-Stack+Web+Developer;Aspiring+Software+Engineer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Computer+Technology+Student+%40+Telkom+University;Full-Stack+Web+%26+Mobile+Developer;Aspiring+Software+Engineer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br>
@@ -11,11 +11,10 @@
   [![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome&color=4285F4)](https://personalfatintsani.vercel.app)
   [![Portfolio](https://img.shields.io/badge/Portfolio-fatintsani.my.id-blue?style=for-the-badge&logo=firefox&color=06B6D4)](https://fatintsani.my.id)
   [![Linktree](https://img.shields.io/badge/Visit-Linktree-blue?style=for-the-badge&logo=linktree&color=00B87C)](https://linktr.ee/fatintsani)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=EA4335)](mailto:fatintsani231@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?style=for-the-badge&logo=whatsapp&color=25D366)](https://wa.me/6283133977213)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=EA4335)](mailto:fatin.tsani231@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?style=for-the-badge&logo=whatsapp&color=25D366)](https://wa.me/6283133977214)
 
-  [![Download CV](https://img.shields.io/badge/Download-CV-blueviolet?style=flat&logo=dropbox&color=007EE5)](https://www.dropbox.com/scl/fi/5o8pj950nypjtsdph4p2b/CV-PROFESIONAL-FATIN-TSANI.pdf?rlkey=c2lq77ud2112ho77pfme2q5op&st=sbjq4k7x&dl=0)
-  [![View Certificate](https://img.shields.io/badge/View-Certificate-blueviolet?style=flat&logo=dropbox&color=007EE5)](https://www.dropbox.com/scl/fi/o8f3fwgam633w7cewrokh/My-Certificate.pdf?rlkey=mh5e8pdh0f4qho09wi6kas0ie&st=hcmsdjwk&dl=0)
+  [![Download CV](https://img.shields.io/badge/Download-CV-blueviolet?style=flat&logo=dropbox&color=007EE5)](https://fatintsani.my.id/storage/profile_cv/XfLY5U5g6IsBqcGa3Bq4LAxW7BDmcZSHCnMquviC.pdf)
   ![Profile Views](https://komarev.com/ghpvc/?username=fatintsani&color=4285F4&style=flat&label=Profile+Views)
 
 </div>
@@ -29,20 +28,25 @@
 ```javascript
 const fatinTsani = {
     location: "Bandung, Indonesia",
-    study: "Teknologi Komputer, Telkom University",
-    role: ["Full-Stack Web Developer", "Aspiring Software Engineer", "UI/UX Enthusiast"],
+    study: "D3 Teknologi Komputer, Telkom University (IPK 3.5/4.0)",
+    role: ["Full-Stack Web & Mobile Developer", "Aspiring Software Engineer", "UI/UX Enthusiast"],
+    experience: "2+ tahun di Web & Mobile App Development",
     languages: ["PHP", "JavaScript", "TypeScript", "Python", "C++"],
     frameworks: {
         backend: ["Laravel", "Nest.js", "Express.js"],
         frontend: ["Next.js", "React", "Vue.js"],
+        mobile: ["Flutter"],
         styling: ["Tailwind CSS", "Bootstrap"]
     },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "Detail lengkap ada di fatintsani.my.id 🚀"
+    database: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
+    currentFocus: "Membangun aplikasi web & mobile yang scalable dan berbasis REST API",
+    funFact: "Aktif sebagai Teaching Assistant, membimbing 50+ mahasiswa 🎓"
 };
 ```
 
-Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**, Bandung, yang fokus mendalami **Full-Stack Web Development**. Terbiasa membangun aplikasi web dari sisi backend menggunakan **Laravel** dan **Nest.js**, hingga sisi frontend dengan **Next.js**, **React**, dan **Vue.js**, dipadukan dengan **Tailwind CSS**. Saat ini terus mengasah kemampuan menuju **Software Engineer** dengan ketertarikan kuat pada **UI/UX Design**.
+Saya adalah mahasiswa **D3 Teknologi Komputer** di **Telkom University**, Bandung, dengan **IPK 3.5/4.0** dan **2+ tahun pengalaman langsung** dalam pengembangan aplikasi web dan mobile full-stack. Terbiasa membangun aplikasi yang **scalable, responsif, dan berbasis database** menggunakan **Laravel, Next.js, React, Flutter, PHP, JavaScript, MySQL,** dan **PostgreSQL**.
+
+Melalui aktivitas akademik, magang, dan proyek freelance, saya telah mengembangkan aplikasi dunia nyata termasuk **platform tiket digital**, **sistem manajemen database**, dan **website organisasi**, dengan pengalaman integrasi **RESTful API**, arsitektur frontend responsif, dan manajemen database. Saya juga aktif sebagai **Asisten Praktikum**, membimbing 50+ mahasiswa dalam algoritma, pemrograman, debugging, dan problem solving.
 
 <br>
 
@@ -50,10 +54,10 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 
 <table>
 <tr>
-<td align="center" width="25%">🌐<br><b>Full-Stack Web Development</b><br><sub>End-to-end app building</sub></td>
+<td align="center" width="25%">🌐<br><b>Full-Stack Web Development</b><br><sub>Laravel, Next.js, React</sub></td>
+<td align="center" width="25%">📱<br><b>Mobile App Development</b><br><sub>Flutter & Firebase</sub></td>
 <td align="center" width="25%">🖥️<br><b>Software Engineering</b><br><sub>Clean & scalable code</sub></td>
-<td align="center" width="25%">📱<br><b>UI/UX Design</b><br><sub>User-centered interfaces</sub></td>
-<td align="center" width="25%">📈<br><b>Data Entry</b><br><sub>Accurate & efficient</sub></td>
+<td align="center" width="25%">🎨<br><b>UI/UX Design</b><br><sub>User-centered interfaces</sub></td>
 </tr>
 </table>
 
@@ -68,6 +72,7 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -78,13 +83,21 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h4>Frontend & Styling</h4>
+<h4>Frontend, Mobile & Styling</h4>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h4>Database & Backend Services</h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <h4>Tools & Platforms</h4>
 
@@ -94,8 +107,8 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 ![Artisan](https://img.shields.io/badge/Artisan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br>
 
@@ -112,7 +125,7 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 
 </div>
 
-> 💡 Kartu di atas di-render oleh layanan gratis pihak ketiga yang kadang kena rate limit sehingga sempat gagal tampil (broken image). Biasanya normal lagi setelah beberapa saat/refresh. Kalau sering bermasalah, solusi paling stabil adalah men-generate kartu ini otomatis lewat GitHub Actions dan menyimpannya sebagai file gambar di repo kamu sendiri — beri tahu saya kalau mau saya siapkan workflow-nya.
+> 💡 Kartu di atas di-render oleh layanan gratis pihak ketiga yang kadang kena rate limit sehingga sempat gagal tampil (broken image). Biasanya normal lagi setelah beberapa saat/refresh.
 
 <br>
 
@@ -129,25 +142,43 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📌 Project One</h3>
+<h3 align="center">🎫 Digital Tickets App</h3>
 <div align="center">
-<i>Deskripsikan project full-stack kamu di sini — stack yang dipakai, fitur utama, dan link demo/repo.</i><br><br>
+<i>Proyek akhir berupa aplikasi tiket digital dengan sistem pemrosesan data terstruktur.</i><br><br>
 
-`Laravel` `MySQL` `Tailwind CSS`
+`Python` `C++`
 </div>
 </td>
 <td width="50%">
-<h3 align="center">📌 Project Two</h3>
+<h3 align="center">🗄️ Database Management System</h3>
 <div align="center">
-<i>Deskripsikan project frontend/backend kamu di sini — stack yang dipakai, fitur utama, dan link demo/repo.</i><br><br>
+<i>Sistem manajemen database untuk pencatatan data operasional berbasis PHP & MySQL.</i><br><br>
 
-`Next.js` `Nest.js` `PostgreSQL`
+`PHP` `MySQL`
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎭 Website Kesenian Salassika</h3>
+<div align="center">
+<i>Website informasi & profil komunitas kesenian, dibangun dari nol menggunakan stack frontend klasik.</i><br><br>
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🏫 Website OSIS Salassika</h3>
+<div align="center">
+<i>Website organisasi sekolah untuk publikasi informasi dan kegiatan, dibangun & dikelola menggunakan WordPress.</i><br><br>
+
+`WordPress`
 </div>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>💡 Ganti bagian di atas dengan project nyata kamu (nama, deskripsi, tech stack, link repo & demo).</sub></p>
+<p align="center"><sub>📁 Lihat portofolio lengkap (termasuk live demo) di <a href="https://fatintsani.my.id/#portfolio">fatintsani.my.id</a></sub></p>
 
 <br>
 
@@ -155,10 +186,41 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 
 <table>
 <tr>
-<td width="80"><b>2025 – Now</b></td>
-<td><b>Telkom University, Bandung</b><br>Program Studi Teknologi Komputer (Computer Technology)</td>
+<td width="140"><b>2024 – 2027</b></td>
+<td><b>Telkom University, Bandung</b><br>D3 Teknologi Komputer &nbsp;•&nbsp; IPK 3.5/4.0</td>
+</tr>
+<tr>
+<td width="140"><b>2021 – 2024</b></td>
+<td><b>SMK Al-Amiin Sangkanhurip</b><br>Teknik Komputer dan Jaringan (TKJ) &nbsp;•&nbsp; Nilai 90.17</td>
 </tr>
 </table>
+
+<br>
+
+## 💻 Experience
+
+<table>
+<tr>
+<td width="140"><b>Des 2025 – Sekarang</b></td>
+<td><b>Chevalier LAB SAS</b><br>C-Learn Front End Developer</td>
+</tr>
+<tr>
+<td width="140"><b>Mei – Agu 2024</b></td>
+<td><b>BUMDesma Sauyunan</b><br>Peserta magang — Web Developer, mengembangkan & mengelola website</td>
+</tr>
+<tr>
+<td width="140"><b>Mei – Jun 2025</b></td>
+<td><b>Fakultas Ilmu Terapan, Telkom University</b><br>Asisten Praktikum Algoritma dan Pemrograman — membimbing 50+ mahasiswa</td>
+</tr>
+</table>
+
+<br>
+
+## 📜 Selected Certificates
+
+`Fullstack Developer` `Front End Web` `Pemrograman Web` `Pemrograman JavaScript` `Google AI` `Huawei AI` `IT Automation with Python` `Network Security` `Machine Learning` `Data Science` `Flutter`
+
+<p align="center"><sub>🔎 Detail & bukti sertifikat lengkap di <a href="https://fatintsani.my.id/#certificate">fatintsani.my.id</a></sub></p>
 
 <br>
 
