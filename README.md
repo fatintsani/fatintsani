@@ -103,21 +103,23 @@ Saya adalah mahasiswa Program Studi Teknologi Komputer di **Telkom University**,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatintsani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatintsani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatintsani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatintsani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://streak-stats.demolab.com/?user=fatintsani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatintsani&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatintsani&theme=tokyo-night&hide_border=true&hide_title=true" width="100%" alt="Activity Graph"/>
 
 </div>
+
+> 💡 Kartu di atas di-render oleh layanan gratis pihak ketiga yang kadang kena rate limit sehingga sempat gagal tampil (broken image). Biasanya normal lagi setelah beberapa saat/refresh. Kalau sering bermasalah, solusi paling stabil adalah men-generate kartu ini otomatis lewat GitHub Actions dan menyimpannya sebagai file gambar di repo kamu sendiri — beri tahu saya kalau mau saya siapkan workflow-nya.
 
 <br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fatintsani&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fatintsani&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" alt="trophies"/>
 </div>
 
 <br>
